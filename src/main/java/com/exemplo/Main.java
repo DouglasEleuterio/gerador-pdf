@@ -10,7 +10,7 @@ import java.util.List;
 
 public class Main {
 
-    private static final String ENDERECO_ARQUIVOS = "c:\\temp\\";
+    private static final String ENDERECO_ARQUIVOS = "c:\\temp\\";// Ruinwindows
     private static final String ENDERECO_IMAGEM = "src/main/resources/img/teste.PNG";
 
     public static void main(String[] args) {
